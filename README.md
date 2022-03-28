@@ -24,4 +24,7 @@ You can find the analysis, ideation and description of the final recommender sys
 - We used **cosine similarity and manhattan distance** to compare embeddings. We found cosine similarity to work a little better in our case.
 - Once we could find similarity between contents, we just used a user's previous watch history to recommend Top 10 content similar to the same.
 
+![Generated Embeddings](https://user-images.githubusercontent.com/25738903/160475354-500e6292-7b18-471b-b017-2f4aa3425c8d.png)
+
+
 You can refer to the jupyter notebook for the solution.
